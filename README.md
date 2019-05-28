@@ -1,1 +1,2 @@
-# ML-for-Quantum-Matter
+# Machine Learning for Quantum Matter and Technology
+​
